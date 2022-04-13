@@ -1,0 +1,18 @@
+# Notepad++ backup files
+nppBackup/
+
+#
+.idea/
+.sass-cache/
+env/
+django_project/static/
+django_project/media/
+django_project/django_settings/local_settings.py
+reload
+*.pyc
+*.po
+*.sql
+.csv#
+node_modules/*
+
+*.sqlite3
